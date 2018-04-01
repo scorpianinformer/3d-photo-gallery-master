@@ -1,1 +1,1 @@
-# 3d-photo-gallery-master
+# 3d-photo-gallery
